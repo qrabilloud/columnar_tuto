@@ -2,3 +2,5 @@ notebook
 mysql-connector-python
 clickhouse-connect
 pandas
+matplotlib
+numpy
